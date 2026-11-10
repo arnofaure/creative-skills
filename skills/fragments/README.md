@@ -6,7 +6,8 @@ Fragments is an experiment by Arno Faure. Each invocation produces a different f
 
 ## Contents
 
-- `SKILL.md` — portable agent instructions. It includes the current visual reference as a provisional link; the exact image and its intended public distribution require Arno's explicit approval before release.
+- `SKILL.md` — portable agent instructions.
+- `assets/reference.png` — the reference stored in this private repository. Download and upload it to FLORA when an agent cannot access a private GitHub file. Public distribution still requires Arno's explicit approval and a rights review.
 
 ## Potential ways to try it
 

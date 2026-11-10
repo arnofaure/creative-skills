@@ -12,7 +12,7 @@ An experiment around one fictionalized childhood memory. Each invocation attempt
 
 - **Status:** Draft; the portable workflow has not been tested with an independent FLORA account.
 - **Output:** One still and a five-second video, subject to model availability and explicit cost approval.
-- **Reference:** The approved image is linked provisionally in the draft; permission and durable hosting must be confirmed before publication.
+- **Reference:** The image is stored in the private repository at `skills/fragments/assets/reference.png`. Its public release and usage rights must be confirmed before publication.
 
 Read the [Fragments notes](skills/fragments/README.md) before trying or sharing it.
 

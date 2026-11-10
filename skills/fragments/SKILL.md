@@ -23,10 +23,9 @@ No striated or scratched smear, scanlines, glitch, brushwork, flat illustration,
 
 ## Reference and portability
 
-The approved visual anchor is this exact image, not a cleaner earlier version:
-https://media.flora.ai/node-inputs/2026/11/10/anonymous/1d3f606e-641d-479d-8404-84de54d0d0c6.png
+The approved visual anchor is the exact image in this skill folder: `assets/reference.png`. Do not substitute a cleaner earlier version.
 
-This URL is included provisionally for a private draft. Before any public distribution, Arno must explicitly approve release of the reference and memory, and the chosen hosting and usage rights must be confirmed. Do not assume a URL's current accessibility means permanent permission or reliability.
+This repository is private while the skill is in development. A private GitHub file is not an anonymously accessible image URL: download it from the repository and upload it to the participant's own FLORA workspace when needed. Do not assume FLORA can fetch private GitHub URLs. Before any public distribution, Arno must explicitly approve release of the reference and memory, and image rights and hosting must be confirmed.
 
 Inspect the image. It may not clearly establish every pose or physical detail, and the source can visually conflict with the written specification; treat the event description as authoritative and the reference as material and broad spatial continuity, not evidence that every fact is visible. Never silently replace the approved image with a sharper version. Import it into the visitor's own FLORA workspace/project or ask the visitor to upload the approved file if the URL is inaccessible. Verify source access, visual identity and exact wiring before generating. If the asset cannot be used, stop: do not substitute a different reference without agreement.
 
