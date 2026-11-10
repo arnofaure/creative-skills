@@ -1,13 +1,13 @@
 # Fragments — sharing draft
 
-**Status: private draft. Not published; not yet tested with an independent FLORA account or in FAUNA.**
+**Status: experimental draft; not yet tested with an independent FLORA account or in FAUNA.**
 
 Fragments is an experiment by Arno Faure. Each invocation produces a different fragment of the same fictionalized childhood memory, not a reconstruction of the participant's own memory. The output is a still and a five-second video; generations use the participant's own project and budget, subject to explicit cost approval.
 
 ## Contents
 
 - `SKILL.md` — portable agent instructions.
-- `assets/reference.png` — the reference stored in this private repository. Download and upload it to FLORA when an agent cannot access a private GitHub file. Public distribution still requires Arno's explicit approval and a rights review.
+- `assets/reference.png` — the exact reference. Download and upload it to FLORA if direct URL import is unavailable.
 
 ## Potential ways to try it
 
@@ -18,13 +18,12 @@ Prompt to try after the skill and visual reference are accessible:
 
 > Use Fragments — Try to remember again to create one new fragment of the memory in my FLORA project. Show me the image and video prompts and the estimated cost before starting. Do not run without my approval.
 
-## Before release
+## Testing
 
-1. Obtain explicit approval to make the fictionalized memory, instructions and exact reference publicly available. Confirm image rights and durable hosting; no public sharing has been performed.
-2. Remove the draft/publication warning only after approval. Choose and set up a distribution channel and verify that the participant can retrieve all assets without access to Arno's workspace.
-3. Test from a separate FLORA account and workspace, with a participant's authorization and budget. Verify actual reference access, model availability, cost estimates, still-to-video wiring, video output and visual quality. Test FAUNA separately if a native-canvas experience is desired.
-4. Finish the separate creative validation of five independent invocations and select three results. Development clips do not count toward that goal.
-5. Only then describe the tested route accurately. Sharing a project link is not equivalent to making a workspace skill public; public posting, a repository, or a workspace invitation each has different permissions.
+1. Verify that a participant can retrieve the instructions and exact image without access to Arno's workspace.
+2. Test from a separate FLORA account and workspace, with the participant's authorization and budget. Verify actual reference access, model availability, cost estimates, still-to-video wiring, video output and visual quality. Test FAUNA separately if a native-canvas experience is desired.
+3. Finish the separate creative validation of five independent invocations and select three results. Development clips do not count toward that goal.
+4. Describe only the tested route accurately. Sharing a project link is not equivalent to making a workspace skill public.
 
 Current model defaults in the draft: Krea 3 image-to-image and MiniMax H3 Max Turbo, 5 s, 768P, prompt expansion disabled if supported. Model availability, pricing and interfaces can change. Historical costs are not a price promise.
 

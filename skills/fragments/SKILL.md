@@ -7,7 +7,7 @@ author: Arno Faure
 
 # Fragments — Try to remember again
 
-**Private working draft. Not publicly released or independently tested.** An experiment by Arno Faure. Each invocation attempts to retrieve a different fragment of the *same* fictionalized memory. It is not a tool for reconstructing the visitor's own memory. Respond in the user's language. Nothing is generated until the user explicitly asks for one fragment and approves the current cost.
+**Experimental draft — not yet independently tested.** An experiment by Arno Faure. Each invocation attempts to retrieve a different fragment of the *same* fictionalized memory. It is not a tool for reconstructing the visitor's own memory. Respond in the user's language. Nothing is generated until the user explicitly asks for one fragment and approves the current cost.
 
 ## The memory
 
@@ -25,7 +25,7 @@ No striated or scratched smear, scanlines, glitch, brushwork, flat illustration,
 
 The approved visual anchor is the exact image in this skill folder: `assets/reference.png`. Do not substitute a cleaner earlier version.
 
-This repository is private while the skill is in development. A private GitHub file is not an anonymously accessible image URL: download it from the repository and upload it to the participant's own FLORA workspace when needed. Do not assume FLORA can fetch private GitHub URLs. Before any public distribution, Arno must explicitly approve release of the reference and memory, and image rights and hosting must be confirmed.
+The reference is included in this repository. For FLORA, import the exact file into the participant's workspace: if direct URL import fails, download `assets/reference.png` and upload it. Confirm accessibility and exact source wiring before generation; do not assume the public GitHub URL works in every FLORA interface.
 
 Inspect the image. It may not clearly establish every pose or physical detail, and the source can visually conflict with the written specification; treat the event description as authoritative and the reference as material and broad spatial continuity, not evidence that every fact is visible. Never silently replace the approved image with a sharper version. Import it into the visitor's own FLORA workspace/project or ask the visitor to upload the approved file if the URL is inaccessible. Verify source access, visual identity and exact wiring before generating. If the asset cannot be used, stop: do not substitute a different reference without agreement.
 
